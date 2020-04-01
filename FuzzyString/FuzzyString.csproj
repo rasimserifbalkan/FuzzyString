@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net47</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>FuzzyStringAdvanced</PackageId>
     <PackageLicenseUrl>./Resources/License.txt</PackageLicenseUrl>
@@ -9,8 +9,8 @@
     <Authors>Rasim Şerif BALKAN</Authors>
     <Company>ŞerifLTD</Company>
     <Product>FuzzyStringAdvanced</Product>
-    <AssemblyVersion>1.0.0.1</AssemblyVersion>
-    <FileVersion>1.0.0.1</FileVersion>
-    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.0.4</AssemblyVersion>
+    <FileVersion>1.0.0.4</FileVersion>
+    <Version>1.0.4</Version>
   </PropertyGroup>
 </Project>
